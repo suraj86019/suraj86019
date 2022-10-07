@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Shukla</h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h4 align="left" alt="Coding" width="400">·👨‍🎓 Studying of Computer Science and Engineering at PTU.</h4>
 <h4 align="left" alt="Coding" width="400">·👨‍💻 Exploring data structures and algorithms.</h4>
@@ -41,7 +41,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj86019&show_icons=true&locale=en&layout=compact" alt="suraj86019" /></p>
 
-<p>&nbsp &nbsp &nbsp &nbsp ;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj86019&show_icons=true&locale=en" alt="suraj86019" /></p>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj86019&show_icons=true&locale=en" alt="suraj86019" /></p>
 <h1></h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj86019&" alt="suraj86019" /></p>
